@@ -7,7 +7,7 @@ Check this youtube video for the full tutorial and demo: https://www.youtube.com
 2) Setup a new project in vercel, and import this repo.
 3) Set up environment variables by copying the variables below and editing them.
 4) Deploy your application and give Vercel a moment to complete the deployment process.
-5) Visit your web app in your web browser, and share it to your friends. ð¥³
+5) Visit your web app in your web browser, and share it to your friends. ð¥³ t
 6) Paste in new custom widgets in the public directory as .html files.
 6) Use Project Atlas to generate new custom UI designs, and paste them into the public directory for instant deploys.ð¥³
 
